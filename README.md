@@ -44,5 +44,6 @@ If you don't know what to talk about, say so. We can use that as a topic.
 ## My schedule
 When working from home, I generally consider my work hours to be 10am to 6pm, though this varies somewhat depending on meetings and if folks are in other time zones/working patterns. If I am not available during these hours for some reason, I will mark it on my calendar. I also keep my Slack status updated (aka available, in a meeting, out for the day), so you can get an idea from glancing at Slack if I am available at the moment.
 
-~ This README is inspired by https://github.com/molly/manager-README ~
+### Resources used in creating this
+https://github.com/molly/manager-README
 
