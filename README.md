@@ -13,12 +13,12 @@ This document is intended to focus on how I work and what to expect from me.
 (The above are in approximate order of priority.)
 
 ## I believe...
-1. that everyone has something to contribute and that everyone has things to both teach and learn.
-2. that human connection, empathy, and mentorship are as important as the technical part of work.
+1. that everyone has something to contribute and that everyone has things to both teach and learn, and that it's important (at both a team and company level) to understand this.
+2. that human connection, empathy, and mentorship are as important to engineering as the technical aspect of our work.
+3. that everyone deserves clear expectations.
 
 ## I don't believe...
 1. that everyone will agree 100% of the time. Whether it is about work priorities or about technology decisions, none of us will get exactly what we want. I do expect we can all work with what we've got, compromise on some things some of the time, and be a strong team unit.
-
 
 ## Feedback
 If you have feedback for me, please give it. It could be something you liked and would like to see more of, something you thought I could do better, something you thought I totally screwed up, or something that doesn't fit in any of these categories. Even if you think it might not be the case, I do want to hear it. And if you think I don't want to hear it, I'd love to hear why you feel that way.
@@ -27,8 +27,7 @@ If you can give me this feedback face-to-face (Zoom or in person), that's my pre
 
 If you're not comfortable giving me some feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me.
 
-Similarly, if you have feedback for a team member or colleague, I encourage you to give it to them directly; if you're not comfortable doing so, let's chat and I can either get the feedback to them or we can work together to figure out a way to deliver it that feels possible, and hopefully even comfortable, to you.
-
+If you have feedback for a team member or colleague, I encourage you to give it to them directly; if you're not comfortable doing so, let's chat and I can either get the feedback to them or we can work together to figure out a way to deliver it that feels possible, and hopefully even comfortable, to you.
 
 ## One-on-ones
 I will put thirty minutes each week or 1 hour every 2 weeks on your calendar for a one-on-one. We can decide together which one of those options makes more sense for us. We will have a running agenda in Notion that I may add items to each week. I very much encourage you to add items also as things come up for you during the week as it can sometimes be hard to think of or bring up things in the moment.
