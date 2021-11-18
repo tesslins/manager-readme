@@ -1,4 +1,4 @@
-# Hi, I'm Tess ✨
+# ✨ Hi, I'm Tess ✨
 
 This document is intended to focus on how I work and what to expect from me.
 
